@@ -1,4 +1,4 @@
-module test
+module go_test
 require (
         bou.ke/monkey	v1.0.1
         bou.ke/monkey	v1.0.2
